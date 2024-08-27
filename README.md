@@ -41,7 +41,7 @@ The Education Investment Fund contract allows users to contribute funds, which a
 
 The current deployed contract address on the Ethereum network is:
 
-**0xd8836A0c94fed8827F529A3d5f1cBa2F204b663b**
+**0x1C8a288689406882e9FD83aa86E13c54383199a7**
 
 ## Future Scope
 
