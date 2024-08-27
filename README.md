@@ -27,10 +27,7 @@ Flowchart
 |  Approved      |      |  Withdraw Funds     |
 |  Beneficiary   |----->|  (Withdraw Function)|
 +----------------+      +---------------------+
-Contract Address
-The current deployed contract address on the Ethereum network is:
 
-0xYourContractAddressHere
 
 Future Scope
 Enhanced Beneficiary Management: Introduce different tiers and roles for beneficiaries.
