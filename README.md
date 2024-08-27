@@ -1,4 +1,4 @@
-Education Investment Fund
+Education Investment Fund: Invest in educational startups through a tokenized fund.
 
 Vision
 
